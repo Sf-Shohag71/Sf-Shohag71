@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sf-Shohag71, 
 Highly motivated MERN stack developer with a strong foundation in Javascript, React.js, Tailwind CSS, and WordPress. Seeking a challenging role to leverage my skills and contribute to developing innovative web applications.<br /><br /><br />
-*My Skills* <br /><br />
-  **Expertise**
+##My Skills <br /><br />
+  ###*Expertise*
   - Javascript
   - ES6
   - React JS
@@ -9,7 +9,7 @@ Highly motivated MERN stack developer with a strong foundation in Javascript, Re
   - CSS
   - HTML
   - WordPress <br /><br />
-**Comfortable**
+###*Comfortable*
   - MongoDB
   - Google Firebase
   - Express JS
