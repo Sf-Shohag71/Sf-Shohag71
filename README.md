@@ -10,7 +10,7 @@ Highly motivated MERN stack developer with a strong foundation in Javascript, Re
   - HTML
   - WordPress <br /><br />
   
-***Comfortable***
+  ***Comfortable***
   - MongoDB
   - Google Firebase
   - Express JS
