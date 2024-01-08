@@ -8,7 +8,7 @@ Highly motivated MERN stack developer with a strong foundation in Javascript, Re
   - Tailwind CSS
   - CSS
   - HTML
-  - WordPress
+  - WordPress\n
   **Comfortable**
     - MongoDB
     - Google Firebase
