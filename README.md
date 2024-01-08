@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sf-Shohag71, 
+- 👋 Hi, I’m Sheikh Farid Shohag, 
 Highly motivated MERN stack developer with a strong foundation in Javascript, React.js, Tailwind CSS, and WordPress. Seeking a challenging role to leverage my skills and contribute to developing innovative web applications.<br /><br /><br />
 **My Skills** <br /><br />
   ***Expertise***
