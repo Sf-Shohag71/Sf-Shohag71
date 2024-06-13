@@ -3,6 +3,5 @@ Highly motivated MERN stack developer with a strong foundation in Javascript, Re
 **My Skills** <br /><br />
   ***Expertise***
   - Javascript | ES6 | React JS | Tailwind CSS | CSS | HTML | WordPress <br /><br />
-  
   ***Comfortable***
-  - MongoDB | Google Firebase | Express JS | Node JS | UI/UX Design (Figma) | Search Engine Optimization (SEO)
+  - MongoDB | Mongoose Schema | Google Firebase | Express JS | Node JS | UI/UX Design (Figma) | Search Engine Optimization (SEO)
