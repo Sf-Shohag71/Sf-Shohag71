@@ -3,6 +3,6 @@ A Frontend Software Engineer with over two years of experience specializing in t
 
 **My Skills** <br /><br />
   ***Expertise***
-  - Javascript | ES6 | DOM | React JS | Tailwind CSS | CSS | HTML | WordPress | Elementor <br /><br />
+  - Javascript | ES6+ | DOM | React JS | Tailwind CSS | CSS3 | HTML5 | WordPress | Elementor <br /><br />
   ***Comfortable***
-  - Next.js | MongoDB | Mongoose | Google Firebase | Express JS | Node JS | UI/UX Design (Figma) | Search Engine Optimization (SEO)
+  - SQL | MongoDB | TypeScript | Google Firebase | Express JS | Node JS | UI/UX Design (Figma) | Search Engine Optimization (SEO)
