@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Sheikh Farid Shohag, 
-Highly motivated MERN stack developer with a strong foundation in Javascript, React.js, Tailwind CSS, and WordPress. Seeking a challenging role to leverage my skills and contribute to developing innovative web applications.<br /><br /><br />
+- 👋 Hi, I’m Shakh Farid Shohag, 
+A Frontend Software Engineer with over two years of experience specializing in the MERN stack and WordPress development. I also apply Python and SQL in AI and Data Science for data manipulation and analysis. With a strong foundation in Computer Science and Engineering, I continuously expand my expertise to develop efficient and user-centric solutions.<br /><br /><br />
+
 **My Skills** <br /><br />
   ***Expertise***
   - Javascript | ES6 | DOM | React JS | Tailwind CSS | CSS | HTML | WordPress | Elementor <br /><br />
