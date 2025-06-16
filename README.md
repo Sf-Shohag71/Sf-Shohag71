@@ -6,3 +6,9 @@ A Frontend Software Engineer with over two years of experience specializing in t
   - Javascript | ES6+ | DOM | React JS | Tailwind CSS | CSS3 | HTML5 | WordPress | Elementor <br /><br />
   ***Comfortable***
   - SQL | MongoDB | TypeScript | Google Firebase | Express JS | Node JS | UI/UX Design (Figma) | Search Engine Optimization (SEO)
+ ***Other Skills***
+    **Language Skills**
+    - English - IELTS Band - 6.0 (Listening - 6.5, Reading - 6.0, Writing - 6.0, Speaking - 6.0)
+    - German(deutsch) - A1
+    - Hindi - Understand Properly
+    - Bangla - Native Language
