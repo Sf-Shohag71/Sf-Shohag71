@@ -9,7 +9,7 @@ A Frontend Software Engineer with over two years of experience specializing in t
   
  ***Other Skills*** <br />
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    **Language Skills**<br />
+    **Language Skills**
     -------------------------------------------------------------------------------------------------
     - English - IELTS Band - 6.0 (Listening - 6.5, Reading - 6.0, Writing - 6.0, Speaking - 6.0)
     - German(deutsch) - A1
